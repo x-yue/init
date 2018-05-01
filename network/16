@@ -1,0 +1,5 @@
+edit the host file to redirect the route from intra.42.fr to 46.19.122.85
+the host file is located in /private/etc/hosts
+we need to add a line "46.19.122.85	intra.42.fr" to redirect the route from intra.42.fr to 46.19.122.85
+
+# note that the permission is denied when we try --> do not try
