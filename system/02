@@ -1,3 +1,2 @@
-sudo -s | vim /etc/hostname
-
+sudo -s | vi /etc/hostname
 # https://www.cyberciti.biz/faq/debian-change-hostname-permanently/
