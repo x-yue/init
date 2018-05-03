@@ -1,2 +1,6 @@
-sudo -s | vi /etc/hostname
-# https://www.cyberciti.biz/faq/debian-change-hostname-permanently/
+hostname newname
+
+# this commande can only be used in the root
+# to get to the root: su -
+# to leave the root: exit
+# use commande "hostname" to check new hostname
