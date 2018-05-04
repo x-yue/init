@@ -1,0 +1,4 @@
+the file is ~/.ssh/id_rsa.pub
+
+# to generate a key : 
+# ssh-keygen -t rsa
