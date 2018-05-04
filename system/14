@@ -1,0 +1,5 @@
+tail -f /var/log/syslog &
+
+# use jobs to check
+# or use ps -l
+# stop de processus in the background use "kill PID"

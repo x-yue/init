@@ -1,0 +1,13 @@
+run crantab -e and edit the file to make scheduled program 
+# the scheduled program will be stored in /var/spool/cron/crontabs/Users
+
+or
+
+edit the /etc/cron.* files
+/etc/cron.hourly
+/etc/cron.daily
+/etc/cron.weekly
+/etc/cron.monthly
+to make different frequency programs
+
+# https://debian-handbook.info/browse/stable/sect.task-scheduling-cron-atd.html 

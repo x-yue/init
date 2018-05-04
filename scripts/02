@@ -1,0 +1,2 @@
+00 4	* * *	root	apt-get upgrade | apt-get update  > /var/log/update_script.log
+# this command should be done on /etc/crontab

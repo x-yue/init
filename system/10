@@ -1,4 +1,3 @@
-su
-# to get into root, get to the password
+# first we have to use "su" to get into root, get to the password
 fdisk -l
 # fdisk is the manipulate disk partition table
