@@ -1,1 +1,3 @@
-ps aux | grep sshd | tr -s " " | cut -d " " -f2
+pidof sshd
+
+# ps aux | grep sshd | tr -s " " | cut -d " " -f2

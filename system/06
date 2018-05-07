@@ -1,4 +1,4 @@
-reboot
+sudo service ssh stop
 
 # it needs to be in the root.
 # to get in the root: su
