@@ -1,1 +1,1 @@
-ls -S nom_du_dossier
+ls -S $1

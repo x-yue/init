@@ -1,1 +1,1 @@
-tail -3 /var/log/apt/history.log
+uptime

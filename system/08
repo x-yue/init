@@ -1,4 +1,4 @@
-the file is ~/.ssh/id_rsa
+the file is ~/.ssh/authorized_keys
 
 # to generate a key : 
 # ssh-keygen -t rsa
