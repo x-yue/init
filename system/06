@@ -1,5 +1,1 @@
-sudo service ssh stop
-
-# it needs to be in the root.
-# to get in the root: su
-# it will required the password
+sudo service ssh restart

@@ -1,0 +1,4 @@
+echo "00 0    * * *   root    cd / && run-parts --report /etc/cron.daily" >> /etc/crontab
+
+if [ (md5sum -c md5sum.md5) == "/etc/crontab : OK"  ]; then mail -A md5sum.md5 root fi
+md5sum /etc/crontab > md5sum.md5"
